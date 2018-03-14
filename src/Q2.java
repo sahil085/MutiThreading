@@ -1,6 +1,4 @@
-/**
- * Created by Lenovo-1 on 13-07-2017.
- */
+
 public class Q2 {
     public static void main(String[] args) throws InterruptedException {
         Thread t1=new Thread(new PrintPrime());

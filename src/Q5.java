@@ -1,6 +1,4 @@
-/**
- * Created by Lenovo-1 on 13-07-2017.
- */
+
 public class Q5 {
     public static void main(String[] args) throws InterruptedException {
         int arr[]={1,1,1,1,1,1,1,1,1,1,1,1};

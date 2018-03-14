@@ -1,6 +1,4 @@
-/**
- * Created by Lenovo-1 on 13-07-2017.
- */
+
 public class MaxValue {
     public static void main(String[] args) throws InterruptedException {
         int arr[]={1,3,4,2,44,22,77,99,88,99,33,35,56,57,21,22};

@@ -1,9 +1,7 @@
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-/**
- * Created by Lenovo-1 on 14-07-2017.
- */
+
 public class SharedCounter {
     public static Integer sharedCounter=0;
     public static Integer temp=0;

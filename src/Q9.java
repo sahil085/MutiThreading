@@ -1,6 +1,4 @@
-/**
- * Created by Lenovo-1 on 14-07-2017.
- */
+
 public class Q9 {
     public static void main(String[] args) {
         Print p1=new Print(1);

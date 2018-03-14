@@ -1,6 +1,4 @@
-/**
- * Created by Lenovo-1 on 13-07-2017.
- */
+
 public class Q4 {
 }
 
